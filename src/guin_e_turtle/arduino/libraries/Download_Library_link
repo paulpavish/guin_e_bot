@@ -1,0 +1,5 @@
+1. Download the library file from here: https://github.com/paulpavish/MotorDriver_GuiNE_Bot/archive/v1.0.0.zip
+
+2. Install the downloaded .zip file to Arduino IDE. Open IDE > Sketch > Include Library > Add .ZIP Library (Browse and select the downloaded file)
+
+3. Also download and install the 'Rosserial Arduino Library' using IDE > Tools > Manage Libraries (Search by name and install the latest version)

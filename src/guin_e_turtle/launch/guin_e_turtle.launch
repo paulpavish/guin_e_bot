@@ -1,0 +1,6 @@
+<launch>
+<node pkg="guin_e_turtle" type="turtle_translator.py" name="Turtle2GuiNE"/>
+<node pkg="guin_e_turtle" type="rosserial_python.py" name="rosserial_python_node" output="screen">
+<param name="port" value="tcp" />
+</node>
+</launch>
