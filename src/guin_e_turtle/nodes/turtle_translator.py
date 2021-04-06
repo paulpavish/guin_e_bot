@@ -39,7 +39,7 @@ reset = False
 # Function to redifine GuiN-E Bot's base motor control values depending on turtle topics
 def motor(lin, ang):
 
-    Speed_Val = 60
+    Speed_Val = 80
     M_C = [Speed_Val, 0, 0, 0, 0]
 
     if lin == 2 and ang == 0:
